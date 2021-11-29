@@ -1,4 +1,4 @@
-# cake classification
+# Cake classification Dataset
 Collection of Cake Images and their multi-target classes.
 
 `cake_annotated.csv` contains the following entries:
@@ -8,3 +8,6 @@ Collection of Cake Images and their multi-target classes.
 4. sprinkle_toppings (str:['yes', 'no'] - `yes` represents presence of sprinkled toppings such as candies, rainbow balls and `no` represents otherwise
 
 Annotations are made manually.
+
+`cake_labels.jpg` demonstrates class distribution of features and targets.
+![Image](https://raw.githubusercontent.com/RajkumarGalaxy/cake/main/cake_labels.jpg)
