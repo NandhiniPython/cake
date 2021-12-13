@@ -14,7 +14,7 @@ file_name,cream,fruits,sprinkle_toppings
 013.jpg,no,yes,no
 014.jpg,yes,no,yes
 015.jpg,yes,yes,yes
-016.jpg,no,no,no
+016.jpg,yes,no,no
 017.jpg,yes,no,yes
 018.jpg,yes,yes,yes
 019.jpg,yes,no,yes
@@ -119,3 +119,13 @@ file_name,cream,fruits,sprinkle_toppings
 118.jpg,no,yes,yes
 119.jpg,no,no,no
 120.jpg,no,no,no
+121.jpg,no,no,yes
+122.jpg,no,no,yes
+123.jpg,no,no,yes
+124.jpg,no,no,yes
+125.jpg,no,no,yes
+126.jpg,no,yes,no
+127.jpg,no,yes,yes
+128.jpg,no,yes,yes
+129.jpg,no,no,yes
+130.jpg,no,no,yes
